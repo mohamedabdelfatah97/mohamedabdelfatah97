@@ -5,7 +5,6 @@
 I've been building robots since **2018**!
 
 - 🧑🏻‍💻 My main interests are **Robot Autonomy, Perception, Localization, Navigation, and Physical AI**.
-- 🏢 Currently working at **Siemens Healthineers**.
 
 ---
 
