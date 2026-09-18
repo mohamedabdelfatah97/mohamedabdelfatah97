@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed
+# Hi👋, I'm Mohamed
 
 ### Robotics Software | Autonomous Systems | Computer Vision | Physical AI
 
