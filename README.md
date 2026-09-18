@@ -17,7 +17,7 @@ I've worked with a range of robotic platforms and autonomous systems, including:
 - 🚁 UAVs & Drones
 - 🌊 ROVs
 - 🦾 Robotic Arms
-- 🛞 Mecanum & Wheeled Mobile Robots
+- 🛞 Wheeled Mobile Robots - Mecanum, Differential Drive & Skid-Steer
 - 🤖 TurtleBots
 
 ---
