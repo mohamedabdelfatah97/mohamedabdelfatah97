@@ -14,10 +14,10 @@ I've worked with a range of robotic platforms and autonomous systems, including:
 
 - 🚗 Autonomous Formula Student vehicles
 - 🏎️ F1TENTH / Autonomous RC Cars
-- 🚁 UAVs & Drones
-- 🌊 ROVs
-- 🦾 Robotic Arms
 - 🛞 Wheeled Mobile Robots - Mecanum, Differential Drive & Skid-Steer
+- 🌊 ROVs
+- 🚁 UAVs & Drones
+- 🦾 Robotic Arms
 - 🤖 TurtleBots
 
 ---
