@@ -40,6 +40,6 @@ Hugging Face LeRobot · Imitation Learning · Reinforcement Learning · PPO · S
 
 ## 🔬 Current Focus
 
-- 🤖 Humanoid robotics and embodied intelligence
-- 🦾 Reinforcement Learning · Manipulation
-- 🏥 Currently working at **Siemens Healthineers**
+- Humanoid robotics and embodied intelligence
+- Reinforcement Learning · Manipulation
+- Currently working at **Siemens Healthineers**
