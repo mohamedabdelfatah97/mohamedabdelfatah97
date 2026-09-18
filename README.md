@@ -4,7 +4,7 @@
 
 I've been building robots since **2018**!
 
-My main interests are **robot autonomy, perception, localization, navigation, and Physical AI**.
+My main interests are **Robot Autonomy, Perception, Localization, Navigation, and Physical AI**.
 
 ---
 
