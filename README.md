@@ -5,10 +5,11 @@
 I've been building robots since **2018**!
 
 My main interests are **Robot Autonomy, Perception, Localization, Navigation, and Physical AI**.
+Currently working at **Siemens Healthineers**
 
 ---
 
-## 🤖 Robotics Experience
+## 🤖 Robotics Platforms
 
 I've worked with a range of robotic platforms and autonomous systems, including:
 
@@ -37,9 +38,3 @@ Computer Vision · Visual Odometry · Sensor Fusion · OpenCV
 Hugging Face LeRobot · Imitation Learning · Reinforcement Learning · PPO · Sim2Real · ONNX Policy Deployment
 
 ---
-
-## 🔬 Current Focus
-
-- Humanoid robotics and embodied intelligence
-- Reinforcement Learning · Manipulation
-- Currently working at **Siemens Healthineers**
