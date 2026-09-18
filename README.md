@@ -41,6 +41,6 @@ Hugging Face LeRobot · Imitation Learning · Reinforcement Learning · PPO · S
 
 ## 🔬 Current Focus
 
-🦿 Humanoid Robotics & Embodied Intelligence
-⌨️ Reinforcement Learning & Robot Manipulation
-🧠 Sim2Real & Learning-Based Robot Control
+- 🦿 Humanoid Robotics & Embodied Intelligence
+- ⌨️ Reinforcement Learning & Robot Manipulation
+- 🧠 Sim2Real & Learning-Based Robot Control
