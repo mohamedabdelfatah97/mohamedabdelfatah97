@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed
 
-<!--
-**mohamedabdelfatah97/mohamedabdelfatah97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Robotics Software | Autonomous Systems | Computer Vision | Physical AI
 
-Here are some ideas to get you started:
+I've been building robots since **2018**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are **robot autonomy, perception, localization, navigation, and Physical AI**.
+
+---
+
+## 🤖 Robotics Experience
+
+I've worked with a range of robotic platforms and autonomous systems, including:
+
+- 🚗 Autonomous Formula Student vehicles
+- 🏎️ F1TENTH / Autonomous RC Cars
+- 🚁 UAVs & Drones
+- 🌊 ROVs
+- 🦾 Robotic Arms
+- 🛞 Mecanum & Wheeled Mobile Robots
+- 🤖 TurtleBots
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+C / C++ · Python · MATLAB
+
+**Robotics**  
+ROS / ROS 2 · Nav2 · MoveIt 2 · Gazebo · MuJoCo · Isaac Sim
+
+**Perception & Localization**  
+Computer Vision · Visual Odometry · Sensor Fusion · OpenCV
+
+**Physical AI & Robot Learning**  
+Hugging Face LeRobot · Imitation Learning · Reinforcement Learning · PPO · Sim2Real · ONNX Policy Deployment
+
+---
+
+## 🔬 Current Focus
+
+- 🤖 Humanoid robotics and embodied intelligence
+- 🦾 Reinforcement Learning · Manipulation
+- 🏥 Currently working at **Siemens Healthineers**
