@@ -8,7 +8,7 @@ I've been building robots since **2018**!
 
 ---
 
-## 🤖 Robotics Platforms
+## 🤖 Robotic Platforms
 
 I've worked with a range of robotic platforms and autonomous systems, including:
 
