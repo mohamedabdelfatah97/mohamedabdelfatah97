@@ -1,4 +1,4 @@
-# Hi👋, I'm Mohamed
+# Hey👋 I'm Mohamed
 
 ### Robotics Software | Autonomous Systems | Computer Vision | Physical AI
 
@@ -31,7 +31,7 @@ C / C++ · Python · MATLAB
 ROS / ROS 2 · Nav2 · MoveIt 2 · Gazebo · MuJoCo · Isaac Sim
 
 **Perception & Localization**  
-Computer Vision · Visual Odometry · Sensor Fusion · OpenCV
+Computer Vision ·  OpenCV · Visual Odometry · Sensor Fusion · SLAM · RTAB · ORB
 
 **Physical AI & Robot Learning**  
 Hugging Face LeRobot · Imitation Learning · Reinforcement Learning · PPO · Sim2Real · ONNX Policy Deployment
