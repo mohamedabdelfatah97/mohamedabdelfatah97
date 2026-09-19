@@ -1,7 +1,5 @@
 # Hey👋 I'm Mohamed
 
-### Robotics Software | Autonomous Systems | Computer Vision | Physical AI
-
 I've been building robots since **2018**!
 
 - 🧑🏻‍💻 My main interests are **Robot Autonomy, Perception, Localization, Navigation, and Physical AI**.
