@@ -10,7 +10,7 @@ I've been building robots since **2018**!
 
 I've worked with a range of robotic platforms and autonomous systems, including:
 
-- 🏎️ Autonomous Formula Student vehicles
+- 🏎️ Autonomous Formula Student Race Vehicle
 - 🚗 F1TENTH / Autonomous RC Cars
 - 🛞 Wheeled Mobile Robots - Mecanum, Differential Drive & Skid-Steer
 - 🌊 ROVs
